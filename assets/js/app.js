@@ -5,7 +5,7 @@ $(document).ready(function(){
   $("#main").show();
   $("#start").remove();
     
-    var seconds_left = 20;
+    var seconds_left = 60;
     var rights = 0;
     var wrongs = 0;
     var doneIsClicked = false;
