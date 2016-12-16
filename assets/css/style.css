@@ -1,6 +1,7 @@
 #timer_div { 
   font-size: 22px;
-  color: red;
+  color: black;
+  font-weight: bolder;
      }
 #main {
     width: 40%;
