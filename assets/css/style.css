@@ -1,0 +1,36 @@
+#timer_div { 
+  font-size: 22px;
+  color: red;
+     }
+#main {
+    width: 40%;
+    margin-top: 10%;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #ff9c07;
+    padding: 30px;
+     }
+#timer_div{
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    height: 20px;
+    background-color: #0094ff;
+     }
+button {
+  text-align: center;
+  margin-right: 30%;
+  margin-left: 33%;
+  margin-top: 40px;
+  padding: 5px;
+  background-color: #0372a5;
+  color: black;
+  font-size: 24px;
+}
+h2 {
+  text-align: center;
+}
+body{
+  text-align: center;
+  background-color: #0094ff;
+}
